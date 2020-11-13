@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\netcoreapp3.1\SklepZoologiczny.exe
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\netcoreapp3.1\SklepZoologiczny.deps.json
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\netcoreapp3.1\SklepZoologiczny.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\netcoreapp3.1\SklepZoologiczny.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\netcoreapp3.1\SklepZoologiczny.dll
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\bin\Debug\netcoreapp3.1\SklepZoologiczny.pdb
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\netcoreapp3.1\SklepZoologiczny.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\netcoreapp3.1\SklepZoologiczny.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\netcoreapp3.1\SklepZoologiczny.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\netcoreapp3.1\SklepZoologiczny.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\netcoreapp3.1\SklepZoologiczny.dll
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\netcoreapp3.1\SklepZoologiczny.pdb
+C:\Users\Lenovo\source\repos\SklepZoologiczny\SklepZoologiczny\obj\Debug\netcoreapp3.1\SklepZoologiczny.genruntimeconfig.cache

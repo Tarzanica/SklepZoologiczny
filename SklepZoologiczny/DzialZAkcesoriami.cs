@@ -7,14 +7,16 @@ namespace SklepZoologiczny
     public class DzialZAkcesoriami
     {
         private string _nazwa;
+        public double cena;
         public string Opis { get; set; }
 
-        public double Cena { get; set; }
+        public double Cena => cena;
+        public string Nazwa => _nazwa;
 
         public DzialZAkcesoriami(string nazwa)
         {
             _nazwa = nazwa;
-            Cena = 0;
+            cena = 0;
         }
 
         public void Wyswietl()
@@ -54,7 +56,7 @@ namespace SklepZoologiczny
 
         public override void BulidCena()
         {
-            Dzialy.Cena = 56.90;
+            Dzialy.cena = 56.90;
         }
 
     }
@@ -72,7 +74,7 @@ namespace SklepZoologiczny
 
         public override void BulidCena()
         {
-            Dzialy.Cena = 129.99;
+            Dzialy.cena = 129.99;
         }
 
     }
@@ -90,7 +92,7 @@ namespace SklepZoologiczny
 
         public override void BulidCena()
         {
-            Dzialy.Cena = 119;
+            Dzialy.cena = 119;
         }
 
     }

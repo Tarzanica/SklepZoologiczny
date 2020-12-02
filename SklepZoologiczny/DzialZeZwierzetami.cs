@@ -7,15 +7,18 @@ namespace SklepZoologiczny
 {
     public class DzialZeZwierzetami
     {
+        public double cena;
+
         private string _nazwa;
         public string Opis { get; set; }
 
-        public double Cena { get; set; }
+        public double Cena => cena;
+        public string Nazwa => _nazwa;
 
         public DzialZeZwierzetami(string nazwa)
         {
             _nazwa = nazwa;
-            Cena = 0;
+            cena = 0;
         }
 
         public void Wyswietl()
@@ -37,7 +40,7 @@ namespace SklepZoologiczny
     }
     public abstract class DzialBuilderZ
     {
-        public DzialZeZwierzetami Dzialy  { get; set; }
+        public DzialZeZwierzetami Dzialy { get; set; }
         public abstract void BuildOpis();
         public abstract void BulidCena();
     }
@@ -55,7 +58,7 @@ namespace SklepZoologiczny
 
         public override void BulidCena()
         {
-            Dzialy.Cena = 2300;
+            Dzialy.cena = 2300;
         }
 
     }
@@ -73,7 +76,7 @@ namespace SklepZoologiczny
 
         public override void BulidCena()
         {
-            Dzialy.Cena = 2280;
+            Dzialy.cena = 2280;
         }
 
     }
@@ -91,7 +94,7 @@ namespace SklepZoologiczny
 
         public override void BulidCena()
         {
-            Dzialy.Cena = 34;
+            Dzialy.cena = 34;
         }
 
     }
